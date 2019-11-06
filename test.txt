@@ -1,2 +1,3 @@
 line1
-added in branch branch2  
+added in branch branch2
+added line3  
